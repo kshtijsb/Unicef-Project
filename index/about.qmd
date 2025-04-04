@@ -34,9 +34,9 @@ import altair as alt
 
 def load_data():
     """Loads the CSV files into Pandas DataFrames."""
-    df_indicator_1 = pd.read_csv("UNICEF_Indicator_1_cleaned.csv")
-    df_indicator_2 = pd.read_csv("UNICEF_Indicator_2_cleaned.csv")
-    df_metadata = pd.read_csv("UNICEF_Metadata_cleaned.csv")
+    df_indicator_1 = pd.read_csv("/Users/kshitijbhilare/Documents/Data Analytics/Quarto-Report-for-unicef-Indicator-main/UNICEF_Indicator_1_cleaned.csv")
+    df_indicator_2 = pd.read_csv("/Users/kshitijbhilare/Documents/Data Analytics/Quarto-Report-for-unicef-Indicator-main/UNICEF_Indicator_2_cleaned.csv")
+    df_metadata = pd.read_csv("/Users/kshitijbhilare/Documents/Data Analytics/Quarto-Report-for-unicef-Indicator-main/UNICEF_Metadata_cleaned.csv")
     return df_indicator_1, df_indicator_2, df_metadata
 
 def filter_indicator_data(df, country, indicator):
