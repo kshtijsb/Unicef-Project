@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "UNICEF Data Analysis",
+    "section": "",
+    "text": "“Let’s begin with a fundamental issue: access to basic sanitation in health care facilities. Our initial visualization is on top 10 Countries. It presents the trend of ‘Proportion of health care facilities with no sanitation service’ over time. What we see is how country like Tanzania is improving year by year.”\n\n\n\n\n\n\n\n\n\n\n\n“To put Afghanistan into perspective, we broaden our view. This bar chart compares the ‘Proportion of health care facilities with no sanitation service’ for a number of countries for the latest available year. This visualization shows that the sanitation crisis is not specific to Afghanistan; it’s a global problem that needs immediate action.”\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n“Now, let’s zoom back in to Afghanistan and examine the broader context of development. These two line graphs tell a story about the interplay between economic factors and health outcomes. The first graph tracks ‘GDP per capita (constant 2015 US$)’ over time, and the second graph plots ‘Life expectancy at birth, total (years)’ over the same period. What do we observe? How Afagnistan having a good GDP Per Capita in 2013 had good Life Expectancy and in the later years the GDP Per Capita had a significant fall but the Life Expentacy was somewhat same. This comparison enables us to observe the complex relationship between a nation’s wealth and the health of its people. It’s not always a straightforward relationship.”\n\n\n\n\n\n\n\n\n\n\n\n\n“Now we turn to India as we consider the next visualization. The line chart indicates ‘FEMALE’ vs. ‘MALE’ deaths at 15-24 years. This is the age range, the transition to adulthood. What does this tell us about gender differentials in mortality? This shows us how goverment of India invested in health care sector, due to which the death count has been significantly gone down in both male and female. These findings raise very significant questions about social factors, access to resources, and specific risks faced by young women and men in initial years for India.”\n\n\n\n\n\n\n\n\n\n\n\n\n“In context of the above, let’s look at how economic development is related to youth mortality more broadly. This scatter plot takes into account the connection between ‘GDP per capita’ and ‘Death aged 15-24’ between nations. This visual allows us to generalize about the impact of economic development on young people’s survival and health, but also leads us to consider other variables that could be playing a role.”\n\n\n\n\n\n        \n        \n        \n\n\n                            \n                                            \n\n\n“Finally, we return full circle to the issue of sanitation, but now we see its ultimate consequence: death. This interactive map shows deaths resulted from poor SANITATION over the years. This visualization poignantly connects the preceding data on sanitation infrastructure to its dreadful impact on human life, particularly among the vulnerable.”"
+  },
+  {
+    "objectID": "about.html#bar-chart-compare-proportion-of-health-care-facilities-with-no-sanitation-service-across-different-countries-in-the-latest-available-year",
+    "href": "about.html#bar-chart-compare-proportion-of-health-care-facilities-with-no-sanitation-service-across-different-countries-in-the-latest-available-year",
+    "title": "UNICEF Data Analysis",
+    "section": "",
+    "text": "“To put Afghanistan into perspective, we broaden our view. This bar chart compares the ‘Proportion of health care facilities with no sanitation service’ for a number of countries for the latest available year. This visualization shows that the sanitation crisis is not specific to Afghanistan; it’s a global problem that needs immediate action.”"
+  },
+  {
+    "objectID": "about.html#line-charts-trends-of-gdp-per-capita-constant-2015-us-and-life-expectancy-at-birth-total-years-over-the-years-for-afghanistan",
+    "href": "about.html#line-charts-trends-of-gdp-per-capita-constant-2015-us-and-life-expectancy-at-birth-total-years-over-the-years-for-afghanistan",
+    "title": "UNICEF Data Analysis",
+    "section": "",
+    "text": "“Now, let’s zoom back in to Afghanistan and examine the broader context of development. These two line graphs tell a story about the interplay between economic factors and health outcomes. The first graph tracks ‘GDP per capita (constant 2015 US$)’ over time, and the second graph plots ‘Life expectancy at birth, total (years)’ over the same period. What do we observe? How Afagnistan having a good GDP Per Capita in 2013 had good Life Expectancy and in the later years the GDP Per Capita had a significant fall but the Life Expentacy was somewhat same. This comparison enables us to observe the complex relationship between a nation’s wealth and the health of its people. It’s not always a straightforward relationship.”"
+  },
+  {
+    "objectID": "about.html#line-chart-of-female-and-male-deaths-aged-15-24-in-india",
+    "href": "about.html#line-chart-of-female-and-male-deaths-aged-15-24-in-india",
+    "title": "UNICEF Data Analysis",
+    "section": "",
+    "text": "“Now we turn to India as we consider the next visualization. The line chart indicates ‘FEMALE’ vs. ‘MALE’ deaths at 15-24 years. This is the age range, the transition to adulthood. What does this tell us about gender differentials in mortality? This shows us how goverment of India invested in health care sector, due to which the death count has been significantly gone down in both male and female. These findings raise very significant questions about social factors, access to resources, and specific risks faced by young women and men in initial years for India.”"
+  },
+  {
+    "objectID": "about.html#scatter-plot-relationship-between-gdp-per-capita-and-death-aged-15-24",
+    "href": "about.html#scatter-plot-relationship-between-gdp-per-capita-and-death-aged-15-24",
+    "title": "UNICEF Data Analysis",
+    "section": "",
+    "text": "“In context of the above, let’s look at how economic development is related to youth mortality more broadly. This scatter plot takes into account the connection between ‘GDP per capita’ and ‘Death aged 15-24’ between nations. This visual allows us to generalize about the impact of economic development on young people’s survival and health, but also leads us to consider other variables that could be playing a role.”"
+  },
+  {
+    "objectID": "about.html#map-showing-deaths-occurred-due-to-poor-sanitation",
+    "href": "about.html#map-showing-deaths-occurred-due-to-poor-sanitation",
+    "title": "UNICEF Data Analysis",
+    "section": "",
+    "text": "“Finally, we return full circle to the issue of sanitation, but now we see its ultimate consequence: death. This interactive map shows deaths resulted from poor SANITATION over the years. This visualization poignantly connects the preceding data on sanitation infrastructure to its dreadful impact on human life, particularly among the vulnerable.”"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Access the unicef data here",
+    "section": "",
+    "text": "Unicef Indicator 1\n\nhttps://drive.google.com/file/d/1RvAJlky4pGdkDDVeAKy14fUUObd_2Hwl/view?usp=sharing"
+  },
+  {
+    "objectID": "index.html#bar-chart-compare-proportion-of-health-care-facilities-with-no-sanitation-service-across-different-countries-in-the-latest-available-year",
+    "href": "index.html#bar-chart-compare-proportion-of-health-care-facilities-with-no-sanitation-service-across-different-countries-in-the-latest-available-year",
+    "title": "Unicef Quarto Report",
+    "section": "",
+    "text": "“To put Afghanistan into perspective, we broaden our view. This bar chart compares the ‘Proportion of health care facilities with no sanitation service’ for a number of countries for the latest available year. This visualization shows that the sanitation crisis is not specific to Afghanistan; it’s a global problem that needs immediate action.”"
+  },
+  {
+    "objectID": "index.html#line-charts-trends-of-gdp-per-capita-constant-2015-us-and-life-expectancy-at-birth-total-years-over-the-years-for-afghanistan",
+    "href": "index.html#line-charts-trends-of-gdp-per-capita-constant-2015-us-and-life-expectancy-at-birth-total-years-over-the-years-for-afghanistan",
+    "title": "Unicef Quarto Report",
+    "section": "",
+    "text": "“Now, let’s zoom back in to Afghanistan and examine the broader context of development. These two line graphs tell a story about the interplay between economic factors and health outcomes. The first graph tracks ‘GDP per capita (constant 2015 US$)’ over time, and the second graph plots ‘Life expectancy at birth, total (years)’ over the same period. What do we observe? How Afagnistan having a good GDP Per Capita in 2013 had good Life Expectancy and in the later years the GDP Per Capita had a significant fall but the Life Expentacy was somewhat same. This comparison enables us to observe the complex relationship between a nation’s wealth and the health of its people. It’s not always a straightforward relationship.”"
+  },
+  {
+    "objectID": "index.html#line-chart-of-female-and-male-deaths-aged-15-24-in-india",
+    "href": "index.html#line-chart-of-female-and-male-deaths-aged-15-24-in-india",
+    "title": "Unicef Quarto Report",
+    "section": "",
+    "text": "“Now we turn to India as we consider the next visualization. The line chart indicates ‘FEMALE’ vs. ‘MALE’ deaths at 15-24 years. This is the age range, the transition to adulthood. What does this tell us about gender differentials in mortality? This shows us how goverment of India invested in health care sector, due to which the death count has been significantly gone down in both male and female. These findings raise very significant questions about social factors, access to resources, and specific risks faced by young women and men in initial years for India.”"
+  },
+  {
+    "objectID": "index.html#scatter-plot-relationship-between-gdp-per-capita-and-death-aged-15-24",
+    "href": "index.html#scatter-plot-relationship-between-gdp-per-capita-and-death-aged-15-24",
+    "title": "Unicef Quarto Report",
+    "section": "",
+    "text": "“In context of the above, let’s look at how economic development is related to youth mortality more broadly. This scatter plot takes into account the connection between ‘GDP per capita’ and ‘Death aged 15-24’ between nations. This visual allows us to generalize about the impact of economic development on young people’s survival and health, but also leads us to consider other variables that could be playing a role.”"
+  },
+  {
+    "objectID": "index.html#map-showing-deaths-occurred-due-to-poor-sanitation",
+    "href": "index.html#map-showing-deaths-occurred-due-to-poor-sanitation",
+    "title": "Unicef Quarto Report",
+    "section": "",
+    "text": "“Finally, we return full circle to the issue of sanitation, but now we see its ultimate consequence: death. This interactive map shows deaths resulted from poor SANITATION over the years. This visualization poignantly connects the preceding data on sanitation infrastructure to its dreadful impact on human life, particularly among the vulnerable.”"
+  },
+  {
+    "objectID": "index.html#quiz",
+    "href": "index.html#quiz",
+    "title": "General Knowledge",
+    "section": "",
+    "text": "What is the capital of France?\n\nBerlin\nMadrid\nParis\nRome\n\n\n\n\nWhich programming language is primarily used for data analysis?\n\nJava\nPython\nC++\nRuby\n\n\n\n\nWhat is the output of 2 + 2 in Python?\n\n22\n4\n5\nNone of the above"
+  }
+]
